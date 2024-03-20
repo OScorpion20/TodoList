@@ -1,0 +1,107 @@
+/* Estilo del encabezado */
+h1 {
+  text-align: center;
+  font-family: 'Arial Black', sans-serif;
+  font-style: italic;
+  color: #333; /* Cambié el color del texto */
+}
+
+/* Estilo del cuerpo */
+body {
+  background: #f0f0f0; /* Cambié el color de fondo */
+  font-family: Arial, sans-serif; /* Cambié la fuente */
+}
+
+/* Estilo del contenedor de la lista de tareas */
+#todo-list {
+  max-width: 600px; /* Hice el contenedor más ancho */
+  margin: 60px auto;
+  padding: 20px;
+  background-color: #fff; /* Cambié el color de fondo */
+  border-radius: 10px; /* Agregué bordes redondeados */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Agregué una sombra */
+}
+
+/* Estilo del formulario y las tareas */
+form,
+.todo {
+  border: 1px solid #ccc; /* Cambié el color del borde */
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9; /* Cambié el color de fondo */
+  border-radius: 8px; /* Agregué bordes redondeados */
+}
+
+/* Estilo del formulario */
+form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px; /* Aumenté el espacio entre el formulario y las tareas */
+}
+
+/* Estilo del input en el formulario */
+form input[type='text'] {
+  padding: 8px;
+  flex-grow: 1;
+  margin-right: 10px; /* Reduje el margen derecho */
+  border: 1px solid #ccc; /* Cambié el color del borde */
+  border-radius: 5px; /* Agregué bordes redondeados */
+}
+
+/* Estilo del botón */
+button {
+  font-size: 16px;
+  background-color: black; /* Cambié el color de fondo */
+  color: #fff;
+  border: none;
+  border-radius: 5px; /* Agregué bordes redondeados */
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Agregué una transición suave */
+}
+
+/* Cambio de color al pasar el ratón sobre el botón */
+button:hover {
+  background-color: black;
+}
+
+/* Cambio de color al hacer clic en el botón */
+button:active {
+  background-color: black;
+}
+
+/* Eliminé el estilo del botón en foco */
+
+/* Estilo de las tareas */
+.todo {
+  margin-bottom: 10px;
+}
+
+/* Estilo del texto de las tareas */
+.todo-text {
+  font-size: 18px; /* Reduje el tamaño del texto */
+  margin-bottom: 5px; /* Reduje el espacio inferior */
+}
+
+/* Estilo de las tareas completadas */
+.todo-completed {
+  margin: 5px 0; /* Reduje el margen */
+}
+
+/* Estilo de las acciones de las tareas */
+.todo-actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Estilo del enlace "Completadas" */
+#completed {
+  margin-left: 10px; /* Reduje el margen izquierdo */
+  color: #666; /* Cambié el color del texto */
+  text-decoration: none; /* Quité el subrayado */
+}
+
+/* Cambio de color al pasar el ratón sobre el enlace "Completadas" */
+#completed:hover {
+  color: #444;
+}
