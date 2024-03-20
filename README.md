@@ -30,9 +30,14 @@ Esto abrirá la aplicación en tu navegador web predeterminado.
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, siéntete libre de hacer un fork y enviar un pull request. Asegúrate de seguir las pautas de contribución antes de enviar cambios.
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
+
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de mi correo electrónico 20460044@colima.tecnm.mx.
 
 ¡Gracias por tu interés en este proyecto!
+
+
+Este README proporciona una descripción general del proyecto, instrucciones de instalación, cómo usarlo, cómo contribuir, información sobre la licencia y cómo ponerse en contacto con el desarrollador. Puedes personalizarlo según tus necesidades específicas. Recuerda que en Markdown, puedes utilizar sintaxis como `#` para encabezados, listas con `-`, código con triple comilla invertida (\`\`\`) y enlaces `[texto](URL)`, entre otros.
+
