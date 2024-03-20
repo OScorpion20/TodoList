@@ -31,7 +31,7 @@ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, siéntete l
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está bajo la Licencia APACHE. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de mi correo electrónico 20460044@colima.tecnm.mx.
